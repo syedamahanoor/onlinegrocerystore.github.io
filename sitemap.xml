@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+C:\Users\hp\Desktop\New folder (2)\style.css
+    <url>
+        <loc>https://www.yourgrocerywebsite.com/</loc>
+        <lastmod>2024-11-12</lastmod>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://www.yourgrocerywebsite.com/sitemap.html</loc>
+        <lastmod>2024-11-12</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.yourgrocerywebsite.com/robots.txt</loc>
+        <lastmod>2024-11-12</lastmod>
+        <priority>0.5</priority>
+    </url>
+</urlset>
